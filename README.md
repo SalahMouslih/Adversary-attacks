@@ -17,7 +17,7 @@ In the project directory, you can run:
 
 ### `uvicorn main:app --reload --host 0.0.0.0`
 
-Runs the FastAPI Server using uvicorn
+Runs the FastAPI Server using uvicorn\
 Your API will be running at  [http://0.0.0.0:8000](http://localhost:8000)
 
 ### `npm start`
